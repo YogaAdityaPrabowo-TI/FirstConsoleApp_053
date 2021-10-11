@@ -1,0 +1,7 @@
+D:\BOWO\YOGA BOWO Semester 5\Pengembangan Aplikasi Terdistribusi\WCF\code1\code1\bin\code1.dll.config
+D:\BOWO\YOGA BOWO Semester 5\Pengembangan Aplikasi Terdistribusi\WCF\code1\code1\bin\code1.dll
+D:\BOWO\YOGA BOWO Semester 5\Pengembangan Aplikasi Terdistribusi\WCF\code1\code1\bin\code1.pdb
+D:\BOWO\YOGA BOWO Semester 5\Pengembangan Aplikasi Terdistribusi\WCF\code1\code1\obj\Debug\code1.csproj.AssemblyReference.cache
+D:\BOWO\YOGA BOWO Semester 5\Pengembangan Aplikasi Terdistribusi\WCF\code1\code1\obj\Debug\code1.csproj.CoreCompileInputs.cache
+D:\BOWO\YOGA BOWO Semester 5\Pengembangan Aplikasi Terdistribusi\WCF\code1\code1\obj\Debug\code1.dll
+D:\BOWO\YOGA BOWO Semester 5\Pengembangan Aplikasi Terdistribusi\WCF\code1\code1\obj\Debug\code1.pdb
